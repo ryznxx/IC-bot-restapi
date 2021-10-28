@@ -1,0 +1,20 @@
+{
+  "name": "ic-bot-restapi",
+  "version": "1.0.0",
+  "description": "For Leveling bot u can use this for image level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryznxx/IC-bot-restapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryznxx/IC-bot-restapi/issues"
+  },
+  "homepage": "https://github.com/ryznxx/IC-bot-restapi#readme"
+}
